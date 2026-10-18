@@ -108,7 +108,6 @@
         (setup :refine *ref*
                :multigrid-refines 0
                :friction 0.5d0
-               :bench-length 0d0
                :ice-height height
                :bench-length (* ratio height)
                :mps mps
